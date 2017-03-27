@@ -1,0 +1,2 @@
+C:\PAIVA\paivaVersao0\bin\Release\paivaVersao0.exe.config
+C:\PAIVA\paivaVersao0\obj\Release\paivaVersao0.csproj.ResolveComReference.cache

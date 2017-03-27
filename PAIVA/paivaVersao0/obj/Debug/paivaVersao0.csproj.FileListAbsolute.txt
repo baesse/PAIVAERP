@@ -1,0 +1,391 @@
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MySql.Data.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\FlashControlV71.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\stdole.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.exe
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.pdb
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.exe
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\paivaVersao0.pdb
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\MySql.Data.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\bin\Debug\stdole.dll
+C:\Users\Igor Baesse\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\FlashControlV71.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\MetroFramework.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\MySql.Data.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\bin\Debug\stdole.dll
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivanovo\VELHO\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+C:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.exe
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.pdb
+C:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe
+C:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.pdb
+C:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+C:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.dll
+C:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+C:\PAIVA\paivaVersao0\bin\Debug\MySql.Data.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\PAIVA\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\PAIVA\paivaVersao0\bin\Debug\stdole.dll
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+C:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+F:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+F:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe
+F:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.pdb
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\PAIVA\paivaVersao0\bin\Debug\FlashControlV71.dll
+F:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+F:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.dll
+F:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+F:\PAIVA\paivaVersao0\bin\Debug\MySql.Data.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\PAIVA\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+F:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\PAIVA\paivaVersao0\bin\Debug\stdole.dll
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.exe
+F:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.pdb
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.exe
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.pdb
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+D:\SISTEMAS\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.pdb
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\MetroFramework.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\MySql.Data.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SISTEMAS\PAIVA\paivaVersao0\bin\Debug\stdole.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.pdb
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\FlashControlV71.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\MetroFramework.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\MySql.Data.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\bin\Debug\stdole.dll
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+C:\Users\baess\Desktop\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+C:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\PAIVA\paivaVersao0\bin\Debug\FlashControlV71.dll
+C:\PAIVA\paivaVersao0\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\PAIVA\paivaVersao0\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\PAIVA\paivaVersao0\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe.config
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.ResolveComReference.cache
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.exe
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.pdb
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csprojResolveAssemblyReference.cache
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.AgendarPagamentos.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadastroPedidos.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientefinanceiro.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadClientes.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.CadFuncionario.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Contas.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmagenda.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmCadastroDeUsuario.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrole.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolefinanceiro.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmcontrolepedidos.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmLogin.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPrincipal.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmRelatorios.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Lista.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.Properties.Resources.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.frmPgFuncionario.resources
+D:\PAIVA\paivaVersao0\obj\Debug\paivaVersao0.csproj.GenerateResource.Cache
+D:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.exe
+D:\PAIVA\paivaVersao0\bin\Debug\paivaVersao0.pdb
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Shared.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PAIVA\paivaVersao0\bin\Debug\FlashControlV71.dll
+D:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Design.dll
+D:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.dll
+D:\PAIVA\paivaVersao0\bin\Debug\MetroFramework.Fonts.dll
+D:\PAIVA\paivaVersao0\bin\Debug\MySql.Data.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PAIVA\paivaVersao0\bin\Debug\ShockwaveFlashObjects.dll
+D:\PAIVA\paivaVersao0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PAIVA\paivaVersao0\bin\Debug\stdole.dll
+D:\PAIVA\paivaVersao0\obj\Debug\RdlCompile.cache
+D:\PAIVA\paivaVersao0\obj\Debug\RdlCompile.compiled
+D:\PAIVA\paivaVersao0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PAIVA\paivaVersao0\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PAIVA\paivaVersao0\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PAIVA\paivaVersao0\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
